@@ -1,5 +1,5 @@
 # Fake-news-detection
-#logistic_regression
+#logistic_regression 
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
 
